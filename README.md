@@ -25,22 +25,6 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="15" alt="javascript logo"  /> JavaScript
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPP)&nbsp;
-
-
-  
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaa404&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -59,16 +43,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
 
-<div align="left">
-  <a href="https://www.youtube.com/@code_class404" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="youtube logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mostafa-abd-elsamie-0b3a70248/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
-  </a>
-</div>
+  
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafaa404&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+
+
+
+
+
+
 
 <a href="https://komarev.com/ghpvc/?username=mostafaa404&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mostafaa404&style=for-the-badge">
