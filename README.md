@@ -20,7 +20,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mostafa-abd-elsamie-0b3a70248/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Abd%20Elsamie-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://x.com/mo_ostafa404" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Abd%20Elsamie-0077B5?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://x.com/mostafaa_404" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Abd%20Elsamie-0077B5?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 
 
